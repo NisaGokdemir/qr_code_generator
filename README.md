@@ -19,7 +19,7 @@ The *QR Code Generator* is a simple web application that enables users to create
 <img src="./images/qrcodegif.gif" alt="QR Code Demo Gif" width="300" height="400">
 
 ## Live Demo 🌐
-Live Demo :
+Live Demo : [QR Code Demo](https://qr-code-generator-ten-kappa.vercel.app/)
 
 
 ## Installation
